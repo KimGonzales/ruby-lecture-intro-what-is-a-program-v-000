@@ -5,7 +5,7 @@ puts "Programs are interpreted at runtime."
 puts "Which means even though I'm writing this Tue Jan 17 2012 8:36am"
 puts "the time now is "+ Time.now.to_s
 
-puts "Programs have flow."
+puts "Programs have flow.."
 puts "Which means that you see this first"
 puts "and this next."
 
